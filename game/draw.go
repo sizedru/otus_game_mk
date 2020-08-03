@@ -10,7 +10,7 @@ import (
 
 var (
 	colorRed   = color.RGBA{255, 0, 0, 255}
-	colorGreen = color.RGBA{0, 255, 0, 255}
+	colorGreen = color.RGBA{0, 255, 255, 255}
 )
 
 const pinSize = 10
